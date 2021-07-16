@@ -12,7 +12,7 @@ Each of the digits 1-9 must occur exactly once in each of the 9 3x3 sub-boxes of
 The '.' character indicates empty cells.
 
 
-![image] (https://github.com/chinyu1229/Sudoku-Solver/blob/main/Example.png)
+![image](https://github.com/chinyu1229/Sudoku-Solver/blob/main/Example.png)
 
 
 ## 解題思想
